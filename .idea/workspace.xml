@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64eaf522-6626-43d7-8033-b2c2de9d4b2c" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery-datetimepicker/.npmignore" afterPath="$PROJECT_DIR$/lib/jquery-datetimepicker/.npmignore" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery-datetimepicker/MIT-LICENSE.txt" afterPath="$PROJECT_DIR$/lib/jquery-datetimepicker/MIT-LICENSE.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery-datetimepicker/README.md" afterPath="$PROJECT_DIR$/lib/jquery-datetimepicker/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery-datetimepicker/bower.json" afterPath="$PROJECT_DIR$/lib/jquery-datetimepicker/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery-datetimepicker/build/jquery.datetimepicker.full.js" afterPath="$PROJECT_DIR$/lib/jquery-datetimepicker/build/jquery.datetimepicker.full.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery-datetimepicker/build/jquery.datetimepicker.full.min.js" afterPath="$PROJECT_DIR$/lib/jquery-datetimepicker/build/jquery.datetimepicker.full.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery-datetimepicker/build/jquery.datetimepicker.min.css" afterPath="$PROJECT_DIR$/lib/jquery-datetimepicker/build/jquery.datetimepicker.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery-datetimepicker/build/jquery.datetimepicker.min.js" afterPath="$PROJECT_DIR$/lib/jquery-datetimepicker/build/jquery.datetimepicker.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery-datetimepicker/datetimepicker.jquery.json" afterPath="$PROJECT_DIR$/lib/jquery-datetimepicker/datetimepicker.jquery.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery-datetimepicker/doc.tpl" afterPath="$PROJECT_DIR$/lib/jquery-datetimepicker/doc.tpl" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery-datetimepicker/index.html" afterPath="$PROJECT_DIR$/lib/jquery-datetimepicker/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery-datetimepicker/jquery.datetimepicker.css" afterPath="$PROJECT_DIR$/lib/jquery-datetimepicker/jquery.datetimepicker.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery-datetimepicker/jquery.datetimepicker.js" afterPath="$PROJECT_DIR$/lib/jquery-datetimepicker/jquery.datetimepicker.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery-datetimepicker/jquery.datetimepicker.min.js" afterPath="$PROJECT_DIR$/lib/jquery-datetimepicker/jquery.datetimepicker.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery-datetimepicker/jquery.js" afterPath="$PROJECT_DIR$/lib/jquery-datetimepicker/jquery.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery-datetimepicker/package.json" afterPath="$PROJECT_DIR$/lib/jquery-datetimepicker/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery-datetimepicker/screen/1.png" afterPath="$PROJECT_DIR$/lib/jquery-datetimepicker/screen/1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery-datetimepicker/screen/2.png" afterPath="$PROJECT_DIR$/lib/jquery-datetimepicker/screen/2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery-datetimepicker/screen/3.1.png" afterPath="$PROJECT_DIR$/lib/jquery-datetimepicker/screen/3.1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery-datetimepicker/screen/3.png" afterPath="$PROJECT_DIR$/lib/jquery-datetimepicker/screen/3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery-datetimepicker/screen/4.png" afterPath="$PROJECT_DIR$/lib/jquery-datetimepicker/screen/4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery-datetimepicker/screen/5.png" afterPath="$PROJECT_DIR$/lib/jquery-datetimepicker/screen/5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery-datetimepicker/screen/6.png" afterPath="$PROJECT_DIR$/lib/jquery-datetimepicker/screen/6.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery-datetimepicker/tests/input_in_container_fixed_to_bottom_of_viewport.html" afterPath="$PROJECT_DIR$/lib/jquery-datetimepicker/tests/input_in_container_fixed_to_bottom_of_viewport.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery-datetimepicker/tests/input_in_container_fixed_to_top_of_viewport.html" afterPath="$PROJECT_DIR$/lib/jquery-datetimepicker/tests/input_in_container_fixed_to_top_of_viewport.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery-mousewheel/ChangeLog.md" afterPath="$PROJECT_DIR$/lib/jquery-mousewheel/ChangeLog.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery-mousewheel/LICENSE.txt" afterPath="$PROJECT_DIR$/lib/jquery-mousewheel/LICENSE.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery-mousewheel/README.md" afterPath="$PROJECT_DIR$/lib/jquery-mousewheel/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery-mousewheel/jquery.mousewheel.js" afterPath="$PROJECT_DIR$/lib/jquery-mousewheel/jquery.mousewheel.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery-mousewheel/package.json" afterPath="$PROJECT_DIR$/lib/jquery-mousewheel/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/AUTHORS.txt" afterPath="$PROJECT_DIR$/lib/jquery/AUTHORS.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/LICENSE.txt" afterPath="$PROJECT_DIR$/lib/jquery/LICENSE.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/README.md" afterPath="$PROJECT_DIR$/lib/jquery/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/bower.json" afterPath="$PROJECT_DIR$/lib/jquery/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/dist/core.js" afterPath="$PROJECT_DIR$/lib/jquery/dist/core.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.js" afterPath="$PROJECT_DIR$/lib/jquery/dist/jquery.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.min.js" afterPath="$PROJECT_DIR$/lib/jquery/dist/jquery.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.min.map" afterPath="$PROJECT_DIR$/lib/jquery/dist/jquery.min.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.slim.js" afterPath="$PROJECT_DIR$/lib/jquery/dist/jquery.slim.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.slim.min.js" afterPath="$PROJECT_DIR$/lib/jquery/dist/jquery.slim.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.slim.min.map" afterPath="$PROJECT_DIR$/lib/jquery/dist/jquery.slim.min.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/LICENSE.txt" afterPath="$PROJECT_DIR$/lib/jquery/external/sizzle/LICENSE.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/dist/sizzle.js" afterPath="$PROJECT_DIR$/lib/jquery/external/sizzle/dist/sizzle.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/dist/sizzle.min.js" afterPath="$PROJECT_DIR$/lib/jquery/external/sizzle/dist/sizzle.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/dist/sizzle.min.map" afterPath="$PROJECT_DIR$/lib/jquery/external/sizzle/dist/sizzle.min.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/package.json" afterPath="$PROJECT_DIR$/lib/jquery/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/.eslintrc.json" afterPath="$PROJECT_DIR$/lib/jquery/src/.eslintrc.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax.js" afterPath="$PROJECT_DIR$/lib/jquery/src/ajax.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/jsonp.js" afterPath="$PROJECT_DIR$/lib/jquery/src/ajax/jsonp.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/load.js" afterPath="$PROJECT_DIR$/lib/jquery/src/ajax/load.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/parseXML.js" afterPath="$PROJECT_DIR$/lib/jquery/src/ajax/parseXML.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/script.js" afterPath="$PROJECT_DIR$/lib/jquery/src/ajax/script.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/var/location.js" afterPath="$PROJECT_DIR$/lib/jquery/src/ajax/var/location.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/var/nonce.js" afterPath="$PROJECT_DIR$/lib/jquery/src/ajax/var/nonce.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/var/rquery.js" afterPath="$PROJECT_DIR$/lib/jquery/src/ajax/var/rquery.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/xhr.js" afterPath="$PROJECT_DIR$/lib/jquery/src/ajax/xhr.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/attributes.js" afterPath="$PROJECT_DIR$/lib/jquery/src/attributes.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/attributes/attr.js" afterPath="$PROJECT_DIR$/lib/jquery/src/attributes/attr.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/attributes/classes.js" afterPath="$PROJECT_DIR$/lib/jquery/src/attributes/classes.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/attributes/prop.js" afterPath="$PROJECT_DIR$/lib/jquery/src/attributes/prop.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/attributes/support.js" afterPath="$PROJECT_DIR$/lib/jquery/src/attributes/support.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/attributes/val.js" afterPath="$PROJECT_DIR$/lib/jquery/src/attributes/val.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/callbacks.js" afterPath="$PROJECT_DIR$/lib/jquery/src/callbacks.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/core.js" afterPath="$PROJECT_DIR$/lib/jquery/src/core.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/DOMEval.js" afterPath="$PROJECT_DIR$/lib/jquery/src/core/DOMEval.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/access.js" afterPath="$PROJECT_DIR$/lib/jquery/src/core/access.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/init.js" afterPath="$PROJECT_DIR$/lib/jquery/src/core/init.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/nodeName.js" afterPath="$PROJECT_DIR$/lib/jquery/src/core/nodeName.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/parseHTML.js" afterPath="$PROJECT_DIR$/lib/jquery/src/core/parseHTML.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/ready-no-deferred.js" afterPath="$PROJECT_DIR$/lib/jquery/src/core/ready-no-deferred.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/ready.js" afterPath="$PROJECT_DIR$/lib/jquery/src/core/ready.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/readyException.js" afterPath="$PROJECT_DIR$/lib/jquery/src/core/readyException.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/stripAndCollapse.js" afterPath="$PROJECT_DIR$/lib/jquery/src/core/stripAndCollapse.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/support.js" afterPath="$PROJECT_DIR$/lib/jquery/src/core/support.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/var/rsingleTag.js" afterPath="$PROJECT_DIR$/lib/jquery/src/core/var/rsingleTag.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/css.js" afterPath="$PROJECT_DIR$/lib/jquery/src/css.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/addGetHookIf.js" afterPath="$PROJECT_DIR$/lib/jquery/src/css/addGetHookIf.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/adjustCSS.js" afterPath="$PROJECT_DIR$/lib/jquery/src/css/adjustCSS.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/curCSS.js" afterPath="$PROJECT_DIR$/lib/jquery/src/css/curCSS.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/hiddenVisibleSelectors.js" afterPath="$PROJECT_DIR$/lib/jquery/src/css/hiddenVisibleSelectors.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/showHide.js" afterPath="$PROJECT_DIR$/lib/jquery/src/css/showHide.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/support.js" afterPath="$PROJECT_DIR$/lib/jquery/src/css/support.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/var/cssExpand.js" afterPath="$PROJECT_DIR$/lib/jquery/src/css/var/cssExpand.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/var/getStyles.js" afterPath="$PROJECT_DIR$/lib/jquery/src/css/var/getStyles.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/var/isHiddenWithinTree.js" afterPath="$PROJECT_DIR$/lib/jquery/src/css/var/isHiddenWithinTree.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/var/rmargin.js" afterPath="$PROJECT_DIR$/lib/jquery/src/css/var/rmargin.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/var/rnumnonpx.js" afterPath="$PROJECT_DIR$/lib/jquery/src/css/var/rnumnonpx.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/var/swap.js" afterPath="$PROJECT_DIR$/lib/jquery/src/css/var/swap.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/data.js" afterPath="$PROJECT_DIR$/lib/jquery/src/data.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/data/Data.js" afterPath="$PROJECT_DIR$/lib/jquery/src/data/Data.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/data/var/acceptData.js" afterPath="$PROJECT_DIR$/lib/jquery/src/data/var/acceptData.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/data/var/dataPriv.js" afterPath="$PROJECT_DIR$/lib/jquery/src/data/var/dataPriv.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/data/var/dataUser.js" afterPath="$PROJECT_DIR$/lib/jquery/src/data/var/dataUser.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/deferred.js" afterPath="$PROJECT_DIR$/lib/jquery/src/deferred.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/deferred/exceptionHook.js" afterPath="$PROJECT_DIR$/lib/jquery/src/deferred/exceptionHook.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/deprecated.js" afterPath="$PROJECT_DIR$/lib/jquery/src/deprecated.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/dimensions.js" afterPath="$PROJECT_DIR$/lib/jquery/src/dimensions.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/effects.js" afterPath="$PROJECT_DIR$/lib/jquery/src/effects.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/effects/Tween.js" afterPath="$PROJECT_DIR$/lib/jquery/src/effects/Tween.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/effects/animatedSelector.js" afterPath="$PROJECT_DIR$/lib/jquery/src/effects/animatedSelector.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/event.js" afterPath="$PROJECT_DIR$/lib/jquery/src/event.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/event/ajax.js" afterPath="$PROJECT_DIR$/lib/jquery/src/event/ajax.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/event/alias.js" afterPath="$PROJECT_DIR$/lib/jquery/src/event/alias.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/event/focusin.js" afterPath="$PROJECT_DIR$/lib/jquery/src/event/focusin.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/event/support.js" afterPath="$PROJECT_DIR$/lib/jquery/src/event/support.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/event/trigger.js" afterPath="$PROJECT_DIR$/lib/jquery/src/event/trigger.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/exports/amd.js" afterPath="$PROJECT_DIR$/lib/jquery/src/exports/amd.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/exports/global.js" afterPath="$PROJECT_DIR$/lib/jquery/src/exports/global.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/jquery.js" afterPath="$PROJECT_DIR$/lib/jquery/src/jquery.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation.js" afterPath="$PROJECT_DIR$/lib/jquery/src/manipulation.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/_evalUrl.js" afterPath="$PROJECT_DIR$/lib/jquery/src/manipulation/_evalUrl.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/buildFragment.js" afterPath="$PROJECT_DIR$/lib/jquery/src/manipulation/buildFragment.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/getAll.js" afterPath="$PROJECT_DIR$/lib/jquery/src/manipulation/getAll.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/setGlobalEval.js" afterPath="$PROJECT_DIR$/lib/jquery/src/manipulation/setGlobalEval.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/support.js" afterPath="$PROJECT_DIR$/lib/jquery/src/manipulation/support.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/var/rcheckableType.js" afterPath="$PROJECT_DIR$/lib/jquery/src/manipulation/var/rcheckableType.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/var/rscriptType.js" afterPath="$PROJECT_DIR$/lib/jquery/src/manipulation/var/rscriptType.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/var/rtagName.js" afterPath="$PROJECT_DIR$/lib/jquery/src/manipulation/var/rtagName.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/wrapMap.js" afterPath="$PROJECT_DIR$/lib/jquery/src/manipulation/wrapMap.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/offset.js" afterPath="$PROJECT_DIR$/lib/jquery/src/offset.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/queue.js" afterPath="$PROJECT_DIR$/lib/jquery/src/queue.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/queue/delay.js" afterPath="$PROJECT_DIR$/lib/jquery/src/queue/delay.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/selector-native.js" afterPath="$PROJECT_DIR$/lib/jquery/src/selector-native.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/selector-sizzle.js" afterPath="$PROJECT_DIR$/lib/jquery/src/selector-sizzle.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/selector.js" afterPath="$PROJECT_DIR$/lib/jquery/src/selector.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/serialize.js" afterPath="$PROJECT_DIR$/lib/jquery/src/serialize.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/traversing.js" afterPath="$PROJECT_DIR$/lib/jquery/src/traversing.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/traversing/findFilter.js" afterPath="$PROJECT_DIR$/lib/jquery/src/traversing/findFilter.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/traversing/var/dir.js" afterPath="$PROJECT_DIR$/lib/jquery/src/traversing/var/dir.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/traversing/var/rneedsContext.js" afterPath="$PROJECT_DIR$/lib/jquery/src/traversing/var/rneedsContext.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/traversing/var/siblings.js" afterPath="$PROJECT_DIR$/lib/jquery/src/traversing/var/siblings.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/ObjectFunctionString.js" afterPath="$PROJECT_DIR$/lib/jquery/src/var/ObjectFunctionString.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/arr.js" afterPath="$PROJECT_DIR$/lib/jquery/src/var/arr.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/class2type.js" afterPath="$PROJECT_DIR$/lib/jquery/src/var/class2type.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/concat.js" afterPath="$PROJECT_DIR$/lib/jquery/src/var/concat.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/document.js" afterPath="$PROJECT_DIR$/lib/jquery/src/var/document.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/documentElement.js" afterPath="$PROJECT_DIR$/lib/jquery/src/var/documentElement.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/fnToString.js" afterPath="$PROJECT_DIR$/lib/jquery/src/var/fnToString.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/getProto.js" afterPath="$PROJECT_DIR$/lib/jquery/src/var/getProto.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/hasOwn.js" afterPath="$PROJECT_DIR$/lib/jquery/src/var/hasOwn.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/indexOf.js" afterPath="$PROJECT_DIR$/lib/jquery/src/var/indexOf.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/pnum.js" afterPath="$PROJECT_DIR$/lib/jquery/src/var/pnum.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/push.js" afterPath="$PROJECT_DIR$/lib/jquery/src/var/push.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/rcssNum.js" afterPath="$PROJECT_DIR$/lib/jquery/src/var/rcssNum.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/rnothtmlwhite.js" afterPath="$PROJECT_DIR$/lib/jquery/src/var/rnothtmlwhite.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/slice.js" afterPath="$PROJECT_DIR$/lib/jquery/src/var/slice.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/support.js" afterPath="$PROJECT_DIR$/lib/jquery/src/var/support.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/toString.js" afterPath="$PROJECT_DIR$/lib/jquery/src/var/toString.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/wrap.js" afterPath="$PROJECT_DIR$/lib/jquery/src/wrap.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/normalize.css/CHANGELOG.md" afterPath="$PROJECT_DIR$/lib/normalize.css/CHANGELOG.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/normalize.css/LICENSE.md" afterPath="$PROJECT_DIR$/lib/normalize.css/LICENSE.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/normalize.css/README.md" afterPath="$PROJECT_DIR$/lib/normalize.css/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/normalize.css/normalize.css" afterPath="$PROJECT_DIR$/lib/normalize.css/normalize.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/normalize.css/package.json" afterPath="$PROJECT_DIR$/lib/normalize.css/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/php-date-formatter/CHANGE.md" afterPath="$PROJECT_DIR$/lib/php-date-formatter/CHANGE.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/php-date-formatter/LICENSE.md" afterPath="$PROJECT_DIR$/lib/php-date-formatter/LICENSE.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/php-date-formatter/README.md" afterPath="$PROJECT_DIR$/lib/php-date-formatter/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/php-date-formatter/bower.json" afterPath="$PROJECT_DIR$/lib/php-date-formatter/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/php-date-formatter/composer.json" afterPath="$PROJECT_DIR$/lib/php-date-formatter/composer.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/php-date-formatter/examples/index.html" afterPath="$PROJECT_DIR$/lib/php-date-formatter/examples/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/php-date-formatter/js/php-date-formatter.js" afterPath="$PROJECT_DIR$/lib/php-date-formatter/js/php-date-formatter.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/php-date-formatter/js/php-date-formatter.min.js" afterPath="$PROJECT_DIR$/lib/php-date-formatter/js/php-date-formatter.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/php-date-formatter/package.json" afterPath="$PROJECT_DIR$/lib/php-date-formatter/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/.npmignore" afterPath="$PROJECT_DIR$/lib/store/.npmignore" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/.travis.yml" afterPath="$PROJECT_DIR$/lib/store/.travis.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/Changelog" afterPath="$PROJECT_DIR$/lib/store/Changelog" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/LICENSE" afterPath="$PROJECT_DIR$/lib/store/LICENSE" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/Makefile" afterPath="$PROJECT_DIR$/lib/store/Makefile" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/README-More.md" afterPath="$PROJECT_DIR$/lib/store/README-More.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/README.md" afterPath="$PROJECT_DIR$/lib/store/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/dist/store.everything.js" afterPath="$PROJECT_DIR$/lib/store/dist/store.everything.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/dist/store.everything.min.js" afterPath="$PROJECT_DIR$/lib/store/dist/store.everything.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/dist/store.legacy.js" afterPath="$PROJECT_DIR$/lib/store/dist/store.legacy.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/dist/store.legacy.min.js" afterPath="$PROJECT_DIR$/lib/store/dist/store.legacy.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/dist/store.modern.js" afterPath="$PROJECT_DIR$/lib/store/dist/store.modern.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/dist/store.modern.min.js" afterPath="$PROJECT_DIR$/lib/store/dist/store.modern.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/dist/store.tests.js" afterPath="$PROJECT_DIR$/lib/store/dist/store.tests.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/dist/store.tests.min.js" afterPath="$PROJECT_DIR$/lib/store/dist/store.tests.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/dist/store.v1-backcompat.js" afterPath="$PROJECT_DIR$/lib/store/dist/store.v1-backcompat.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/dist/store.v1-backcompat.min.js" afterPath="$PROJECT_DIR$/lib/store/dist/store.v1-backcompat.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/package.json" afterPath="$PROJECT_DIR$/lib/store/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/plugins/all.js" afterPath="$PROJECT_DIR$/lib/store/plugins/all.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/plugins/all_tests.js" afterPath="$PROJECT_DIR$/lib/store/plugins/all_tests.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/plugins/defaults.js" afterPath="$PROJECT_DIR$/lib/store/plugins/defaults.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/plugins/defaults_test.js" afterPath="$PROJECT_DIR$/lib/store/plugins/defaults_test.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/plugins/dump.js" afterPath="$PROJECT_DIR$/lib/store/plugins/dump.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/plugins/dump_test.js" afterPath="$PROJECT_DIR$/lib/store/plugins/dump_test.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/plugins/events.js" afterPath="$PROJECT_DIR$/lib/store/plugins/events.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/plugins/events_test.js" afterPath="$PROJECT_DIR$/lib/store/plugins/events_test.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/plugins/expire.js" afterPath="$PROJECT_DIR$/lib/store/plugins/expire.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/plugins/expire_test.js" afterPath="$PROJECT_DIR$/lib/store/plugins/expire_test.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/plugins/json2.js" afterPath="$PROJECT_DIR$/lib/store/plugins/json2.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/plugins/json2_test.js" afterPath="$PROJECT_DIR$/lib/store/plugins/json2_test.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/plugins/lib/json2.js" afterPath="$PROJECT_DIR$/lib/store/plugins/lib/json2.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/plugins/observe.js" afterPath="$PROJECT_DIR$/lib/store/plugins/observe.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/plugins/observe_test.js" afterPath="$PROJECT_DIR$/lib/store/plugins/observe_test.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/plugins/operations.js" afterPath="$PROJECT_DIR$/lib/store/plugins/operations.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/plugins/operations_test.js" afterPath="$PROJECT_DIR$/lib/store/plugins/operations_test.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/plugins/update.js" afterPath="$PROJECT_DIR$/lib/store/plugins/update.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/plugins/update_test.js" afterPath="$PROJECT_DIR$/lib/store/plugins/update_test.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/plugins/v1-backcompat.js" afterPath="$PROJECT_DIR$/lib/store/plugins/v1-backcompat.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/plugins/v1-backcompat_test.js" afterPath="$PROJECT_DIR$/lib/store/plugins/v1-backcompat_test.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/scripts/compile-builds.js" afterPath="$PROJECT_DIR$/lib/store/scripts/compile-builds.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/scripts/create-tunnel.js" afterPath="$PROJECT_DIR$/lib/store/scripts/create-tunnel.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/scripts/run-browser-tests-live-reload.js" afterPath="$PROJECT_DIR$/lib/store/scripts/run-browser-tests-live-reload.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/scripts/run-node-tests.js" afterPath="$PROJECT_DIR$/lib/store/scripts/run-node-tests.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/scripts/run-saucelabs-tests.js" afterPath="$PROJECT_DIR$/lib/store/scripts/run-saucelabs-tests.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/scripts/saucelabs/list-supported-browsers.js" afterPath="$PROJECT_DIR$/lib/store/scripts/saucelabs/list-supported-browsers.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/scripts/saucelabs/saucelabs-api.js" afterPath="$PROJECT_DIR$/lib/store/scripts/saucelabs/saucelabs-api.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/scripts/saucelabs/saucelabs-platformSets.js" afterPath="$PROJECT_DIR$/lib/store/scripts/saucelabs/saucelabs-platformSets.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/scripts/saucelabs/saucelabs.js" afterPath="$PROJECT_DIR$/lib/store/scripts/saucelabs/saucelabs.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/scripts/saucelabs/tunnel.js" afterPath="$PROJECT_DIR$/lib/store/scripts/saucelabs/tunnel.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/src/store-engine.js" afterPath="$PROJECT_DIR$/lib/store/src/store-engine.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/src/util.js" afterPath="$PROJECT_DIR$/lib/store/src/util.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/storages/all.js" afterPath="$PROJECT_DIR$/lib/store/storages/all.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/storages/cookieStorage.js" afterPath="$PROJECT_DIR$/lib/store/storages/cookieStorage.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/storages/localStorage.js" afterPath="$PROJECT_DIR$/lib/store/storages/localStorage.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/storages/memoryStorage.js" afterPath="$PROJECT_DIR$/lib/store/storages/memoryStorage.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/storages/oldFF-globalStorage.js" afterPath="$PROJECT_DIR$/lib/store/storages/oldFF-globalStorage.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/storages/oldIE-userDataStorage.js" afterPath="$PROJECT_DIR$/lib/store/storages/oldIE-userDataStorage.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/storages/sessionStorage.js" afterPath="$PROJECT_DIR$/lib/store/storages/sessionStorage.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/sublime-storejs.sublime-project" afterPath="$PROJECT_DIR$/lib/store/sublime-storejs.sublime-project" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/tests/tests.js" afterPath="$PROJECT_DIR$/lib/store/tests/tests.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/store/tests/util.js" afterPath="$PROJECT_DIR$/lib/store/tests/util.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1020">
+              <caret line="60" column="7" lean-forward="true" selection-start-line="60" selection-start-column="7" selection-end-line="60" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/lib" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="138" />
+    <option name="y" value="73" />
+    <option name="width" value="1105" />
+    <option name="height" value="706" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="todo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="todo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64eaf522-6626-43d7-8033-b2c2de9d4b2c" name="Default" comment="" />
+      <created>1500562948538</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1500562948538</updated>
+      <workItem from="1500562950546" duration="81000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="81000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="138" y="73" width="1105" height="706" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="60" column="7" lean-forward="true" selection-start-line="60" selection-start-column="7" selection-end-line="60" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
